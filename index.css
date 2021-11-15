@@ -1,7 +1,11 @@
 #food {
-text-align:center
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-#drink {
-text-align:center
-  }
+#water {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
